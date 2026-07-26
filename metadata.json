@@ -1,0 +1,6 @@
+{
+  "name": "My Dialysis Book",
+  "description": "Carnet de Dialyse Numérique - Secure digital dialysis notebook with session logs, lab history with abnormal alerts, home monitoring, nutrition guides, emergency card, QR passport, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
